@@ -1,2 +1,2 @@
 # hello-world
-Testing repo
+This is a test to familirize with GitHub
